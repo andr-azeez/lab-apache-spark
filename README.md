@@ -4,5 +4,6 @@
 
 ````
 cd /opt/spark/sbin
+sh start-master.sh
 ````
 
