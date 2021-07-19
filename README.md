@@ -1,6 +1,6 @@
 # Spark
 
-# Installation are in below dir
+<h6> Run Spark Commands </h6>
 
 ````
 cd /opt/spark/sbin
